@@ -12,19 +12,34 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
-          title="3D Next.js Portfolio"
-          description="One my latest projects,featuring well curated development assets that showcase my expertise in Web development."
+          src="/bo.jpeg"
+          title=" Next.js Project"
+          description=" A showcase of my recent projects, highlighting meticulously selected development assets that exemplify my proficiency in web development."
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="Responsive Website "
-          description="Showcasing my expertise in web developmentthrough a carefully desinged and developed project."
+          src="/mber.jpeg"
+          title=" React Project"
+          description="Demonstrating my web development prowess through a meticulously crafted and designed project."
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
-          title="My Website"
-          description="A recent project  demonstrating  my skills in crafting responsive, user centric experiences."
+          src="/Java.jpeg"
+          title="Java Project"
+          description="Highlighting my web development expertise through a meticulously designed and executed project."
+        />
+        <ProjectCard
+          src="/aq.jpeg"
+          title="REDUX Project"
+          description="Exhibiting my web development skills through a thoughtfully designed and impeccably executed project."
+        />
+        <ProjectCard
+          src="/pe.jpeg"
+          title="Framer Project"
+          description="Displaying my web development expertise through a skillfully designed and executed project."
+        />
+        <ProjectCard
+          src="/lo.jpeg"
+          title="CRUD Project"
+          description="Illustrating my web development capabilities through a masterfully designed and executed project."
         />
       </div>
     </div>
